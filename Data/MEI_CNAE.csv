@@ -1,0 +1,556 @@
+CNAE,TOTAL,Descrição
+0121-1/01,1063,"Horticultura, exceto morango"
+0155-5/01,1,Criação de frangos para corte
+0159-8/01,1313,Apicultura
+0159-8/02,3903,Criação de animais de estimação
+0161-0/01,1722,Serviço de pulverização e controle de pragas agrícolas
+0161-0/02,2232,Serviço de poda de árvores para lavouras
+0161-0/03,16110,"Serviço de preparação de terreno, cultivo e colheita"
+0161-0/99,1,Atividades de apoio à agricultura não especificadas anteriormente
+0162-8/02,239,Serviço de tosquiamento de ovinos
+0162-8/03,17,Serviço de manejo de animais
+0170-9/00,7,Caça e serviços relacionados
+0210-1/06,1,Cultivo de mudas em viveiros florestais
+0220-9/04,3,Coleta de látex em florestas nativas
+0220-9/06,30,Conservação de florestas nativas
+0220-9/99,7,Coleta de produtos não-madeireiros não especificados anteriormente em florestas nativas
+0230-6/00,1,Atividades de apoio à produção florestal
+0311-6/04,21,Atividades de apoio à pesca em água salgada
+0312-4/03,8,Coleta de outros produtos aquáticos de água doce
+0321-3/04,151,Criação de peixes ornamentais em água salgada e salobra
+0322-1/01,3,Criação de peixes em água doce
+0322-1/04,1125,Criação de peixes ornamentais em água doce
+0322-1/99,2,Cultivos e semicultivos da aqüicultura em água doce não especificados anteriormente
+0600-0/03,1,Extração e beneficiamento de areias betuminosas
+0810-0/06,1,"Extração de areia, cascalho ou pedregulho e beneficiamento associado"
+0892-4/01,36,Extração de sal marinho
+0899-1/99,1,Extração de outros minerais não-metálicos não especificados anteriormente
+1012-1/01,1565,Abate de aves
+1013-9/01,3981,Fabricação de produtos de carne
+1031-7/00,5251,Fabricação de conservas de frutas
+1032-5/01,1,Fabricação de conservas de palmito
+1032-5/99,1366,"Fabricação de conservas de legumes e outros vegetais, exceto palmito"
+1033-3/01,1050,"Fabricação de sucos concentrados de frutas, hortaliças e legumes"
+1033-3/02,1912,"Fabricação de sucos de frutas, hortaliças e legumes, exceto concentrados"
+1052-0/00,3666,Fabricação de laticínios
+1053-8/00,74,Fabricação de sorvetes e outros gelados comestíveis
+1061-9/01,1,Beneficiamento de arroz
+1061-9/02,152,Fabricação de produtos do arroz
+1063-5/00,1222,Fabricação de farinha de mandioca e derivados
+1064-3/00,363,"Fabricação de farinha de milho e derivados, exceto óleos de milho"
+1065-1/01,555,Fabricação de amidos e féculas de vegetais
+1066-0/00,1,Fabricação de alimentos para animais
+1069-4/00,428,Moagem e fabricação de produtos de origem vegetal não especificados anteriormente
+1071-6/00,493,Fabricação de açúcar em bruto
+1081-3/02,2,Torrefação e moagem de café
+1091-1/01,31115,Fabricação de produtos de panificação industrial
+1091-1/02,86241,Fabricação de produtos de padaria e confeitaria com predominância de produção própria
+1092-9/00,4725,Fabricação de biscoitos e bolachas
+1093-7/01,7849,Fabricação de produtos derivados do cacau e de chocolates
+1093-7/02,1540,"Fabricação de frutas cristalizadas, balas e semelhantes"
+1094-5/00,15798,Fabricação de massas alimentícias
+1095-3/00,3068,"Fabricação de especiarias, molhos, temperos e condimentos"
+1096-1/00,18763,Fabricação de alimentos e pratos prontos
+1099-6/01,118,Fabricação de vinagres
+1099-6/04,1641,Fabricação de gelo comum
+1099-6/05,549,"Fabricação de produtos para infusão (chá, mate, etc.)"
+1099-6/99,795,Fabricação de outros produtos alimentícios não especificados anteriormente
+1122-4/03,248,"Fabricação de refrescos, xaropes e pós para refrescos, exceto refrescos de frutas"
+1122-4/99,228,Fabricação de outras bebidas não alcoólicas não especificadas anteriormente
+1220-4/02,1,Fabricação de cigarrilhas e charutos
+1220-4/99,346,"Fabricação de outros produtos do fumo, exceto cigarros, cigarrilhas e charutos"
+1311-1/00,119,Preparação e fiação de fibras de algodão
+1312-0/00,128,"Preparação e fiação de fibras têxteis naturais, exceto algodão"
+1321-9/00,192,Tecelagem de fios de algodão
+1322-7/00,672,"Tecelagem de fios de fibras têxteis naturais, exceto algodão"
+1323-5/00,1,Tecelagem de fios de fibras artificiais e sintéticas
+1330-8/00,1,Fabricação de tecidos de malha
+1340-5/01,10108,"Estamparia e texturização em fios, tecidos, artefatos têxteis e peças do vestuário"
+1340-5/99,15778,"Outros serviços de acabamento em fios, tecidos, artefatos têxteis e peças do vestuário"
+1351-1/00,5274,Fabricação de artefatos têxteis para uso doméstico
+1352-9/00,6876,Fabricação de artefatos de tapeçaria
+1353-7/00,208,Fabricação de artefatos de cordoaria
+1354-5/00,2,"Fabricação de tecidos especiais, inclusive artefatos"
+1359-6/00,24916,Fabricação de outros produtos têxteis não especificados anteriormente
+1411-8/01,7016,Confecção de roupas íntimas
+1411-8/02,3242,Facção de roupas íntimas
+1412-6/01,105484,"Confecção de peças do vestuário, exceto roupas íntimas e as confeccionadas sob medida"
+1412-6/02,91666,"Confecção, sob medida, de peças do vestuário, exceto roupas íntimas"
+1412-6/03,32165,"Facção de peças do vestuário, exceto roupas íntimas"
+1413-4/01,4,"Confecção de roupas profissionais, exceto sob medida"
+1413-4/02,3,"Confecção, sob medida, de roupas profissionais"
+1413-4/03,4616,Facção de roupas profissionais
+1414-2/00,944,"Fabricação de acessórios do vestuário, exceto para segurança e proteção"
+1421-5/00,133,Fabricação de meias
+1422-3/00,6783,"Fabricação de artigos do vestuário, produzidos em malharias e tricotagens, exceto meias"
+1510-6/00,157,Curtimento e outras preparações de couro
+1521-1/00,4932,"Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material"
+1529-7/00,5323,Fabricação de artefatos de couro não especificados anteriormente
+1531-9/01,4707,Fabricação de calçados de couro
+1531-9/02,3555,Acabamento de calçados de couro sob contrato
+1539-4/00,6570,Fabricação de calçados de materiais não especificados anteriormente
+1540-8/00,1803,"Fabricação de partes para calçados, de qualquer material"
+1610-2/03,3,Serrarias com desdobramento de madeira em bruto
+1622-6/02,2,Fabricação de esquadrias de madeira e de peças de madeira para instalações industriais e comerciais
+1622-6/99,13760,Fabricação de outros artigos de carpintaria para construção
+1623-4/00,763,Fabricação de artefatos de tanoaria e de embalagens de madeira
+1629-3/01,18509,"Fabricação de artefatos diversos de madeira, exceto móveis"
+1629-3/02,2891,"Fabricação de artefatos diversos de cortiça, bambu, palha, vime e outros materiais trançados, exceto móveis"
+1721-4/00,213,Fabricação de papel
+1731-1/00,1278,Fabricação de embalagens de papel
+1732-0/00,672,Fabricação de embalagens de cartolina e papel-cartão
+1742-7/01,388,Fabricação de fraldas descartáveis
+1742-7/02,145,Fabricação de absorventes higiênicos
+1742-7/99,65,Fabricação de produtos de papel para uso doméstico e higiênico-sanitário não especificados anteriormente
+1749-4/00,12232,"Fabricação de produtos de pastas celulósicas, papel, cartolina, papel-cartão e papelão ondulado não especificados anteriormente"
+1813-0/01,13653,Impressão de material para uso publicitário
+1813-0/99,14567,Impressão de material para outros usos
+1821-1/00,12625,Serviços de pré-impressão
+1822-9/01,2420,Serviços de encadernação e plastificação
+1822-9/99,96,"Serviços de acabamentos gráficos, exceto encadernação e plastificação"
+1830-0/01,2,Reprodução de som em qualquer suporte
+1830-0/02,1,Reprodução de vídeo em qualquer suporte
+1830-0/03,1,Reprodução de software em qualquer suporte
+2052-5/00,516,Fabricação de desinfestantes domissanitários
+2061-4/00,418,Fabricação de sabões e detergentes sintéticos
+2062-2/00,1794,Fabricação de produtos de limpeza e polimento
+2063-1/00,1299,"Fabricação de cosméticos, produtos de perfumaria e de higiene pessoal"
+2092-4/02,42,Fabricação de artigos pirotécnicos
+2219-6/00,2982,Fabricação de artefatos de borracha não especificados anteriormente
+2222-6/00,1,Fabricação de embalagens de material plástico
+2229-3/99,3073,Fabricação de artefatos de material plástico para outros usos não especificados anteriormente
+2319-2/00,1359,Fabricação de artigos de vidro
+2330-3/01,3,"Fabricação de estruturas pré-moldadas de concreto armado, em série e sob encomenda"
+2330-3/02,3,Fabricação de artefatos de cimento para uso na construção
+2330-3/05,61,Preparação de massa de concreto e argamassa para construção
+2330-3/99,8266,"Fabricação de outros artefatos e produtos de concreto, cimento, fibrocimento, gesso e materiais semelhantes"
+2342-7/02,718,"Fabricação de artefatos de cerâmica e barro cozido para uso na construção, exceto azulejos e pisos"
+2349-4/99,4234,Fabricação de produtos cerâmicos não-refratários não especificados anteriormente
+2391-5/01,403,"Britamento de pedras, exceto associado à extração"
+2391-5/02,771,"Aparelhamento de pedras para construção, exceto associado à extração"
+2391-5/03,7533,"Aparelhamento de placas e execução de trabalhos em mármore, granito, ardósia e outras pedras"
+2399-1/01,2372,"Decoração, lapidação, gravação, vitrificação e outros trabalhos em cerâmica, louça, vidro e cristal"
+2452-1/00,1,Fundição de metais não-ferrosos e suas ligas
+2511-0/00,1,Fabricação de estruturas metálicas
+2512-8/00,12431,Fabricação de esquadrias de metal
+2531-4/02,1,Produção de forjados de metais não-ferrosos e suas ligas
+2532-2/01,3761,Produção de artefatos estampados de metal
+2539-0/01,31356,"Serviços de usinagem, tornearia e solda"
+2539-0/02,845,Serviços de tratamento e revestimento em metais
+2541-1/00,534,Fabricação de artigos de cutelaria
+2542-0/00,69309,"Fabricação de artigos de serralheria, exceto esquadrias"
+2543-8/00,4227,Fabricação de ferramentas
+2592-6/01,1,Fabricação de produtos de trefilados de metal padronizados
+2593-4/00,3,Fabricação de artigos de metal para uso doméstico e pessoal
+2599-3/01,7093,Serviços de confecção de armações metálicas para a construção
+2599-3/99,4474,Fabricação de outros produtos de metal não especificados anteriormente
+2640-0/00,1,"Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo"
+2740-6/02,651,Fabricação de luminárias e outros equipamentos de iluminação
+2829-1/01,1,"Fabricação de máquinas de escrever, calcular e outros equipamentos não-eletrônicos para escritório, peças e acessórios"
+2840-2/00,1,"Fabricação de máquinas-ferramenta, peças e acessórios"
+2950-6/00,2295,Recondicionamento e recuperação de motores para veículos automotores
+3101-2/00,74465,Fabricação de móveis com predominância de madeira
+3102-1/00,761,Fabricação de móveis com predominância de metal
+3103-9/00,3059,"Fabricação de móveis de outros materiais, exceto madeira e metal"
+3104-7/00,526,Fabricação de colchões
+3211-6/01,852,Lapidação de gemas
+3211-6/02,1777,Fabricação de artefatos de joalheria e ourivesaria
+3211-6/03,33,Cunhagem de moedas e medalhas
+3212-4/00,21838,Fabricação de bijuterias e artefatos semelhantes
+3220-5/00,809,"Fabricação de instrumentos musicais, peças e acessórios"
+3230-2/00,824,Fabricação de artefatos para pesca e esporte
+3240-0/02,1,"Fabricação de mesas de bilhar, de sinuca e acessórios não associada à locação"
+3240-0/03,1,"Fabricação de mesas de bilhar, de sinuca e acessórios associada à locação"
+3240-0/99,1616,Fabricação de outros brinquedos e jogos recreativos não especificados anteriormente
+3250-7/06,3,Serviços de prótese dentária
+3291-4/00,1546,"Fabricação de escovas, pincéis e vassouras"
+3292-2/02,842,Fabricação de equipamentos e acessórios para segurança pessoal e profissional
+3299-0/01,73,Fabricação de guarda-chuvas e similares
+3299-0/02,858,"Fabricação de canetas, lápis e outros artigos para escritório"
+3299-0/03,6353,"Fabricação de letras, letreiros e placas de qualquer material, exceto luminosos"
+3299-0/04,2534,Fabricação de painéis e letreiros luminosos
+3299-0/05,525,Fabricação de aviamentos para costura
+3299-0/06,1022,"Fabricação de velas, inclusive decorativas"
+3299-0/99,74407,Fabricação de produtos diversos não especificados anteriormente
+3311-2/00,1909,"Manutenção e reparação de tanques, reservatórios metálicos e caldeiras, exceto para veículos"
+3312-1/03,2,Manutenção e reparação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação
+3313-9/01,5733,"Manutenção e reparação de geradores, transformadores e motores elétricos"
+3313-9/02,219,"Manutenção e reparação de baterias e acumuladores elétricos, exceto para veículos"
+3313-9/99,3573,"Manutenção e reparação de máquinas, aparelhos e materiais elétricos não especificados anteriormente"
+3314-7/01,1078,Manutenção e reparação de máquinas motrizes não-elétricas
+3314-7/02,4863,"Manutenção e reparação de equipamentos hidráulicos e pneumáticos, exceto válvulas"
+3314-7/06,1390,"Manutenção e reparação de máquinas, aparelhos e equipamentos para instalações térmicas"
+3314-7/07,16729,Manutenção e reparação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial
+3314-7/08,1,"Manutenção e reparação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas"
+3314-7/09,519,"Manutenção e reparação de máquinas de escrever, calcular e de outros equipamentos não-eletrônicos para escritório"
+3314-7/10,3266,Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente
+3314-7/11,5713,Manutenção e reparação de máquinas e equipamentos para agricultura e pecuária
+3314-7/12,1909,Manutenção e reparação de tratores agrícolas
+3314-7/13,3,Manutenção e reparação de máquinas-ferramenta
+3314-7/18,1,"Manutenção e reparação de máquinas para a indústria metalúrgica, exceto máquinas-ferramenta"
+3314-7/19,2377,"Manutenção e reparação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo"
+3314-7/20,2654,"Manutenção e reparação de máquinas e equipamentos para a indústria têxtil, do vestuário, do couro e calçados"
+3314-7/99,2625,Manutenção e reparação de outras máquinas e equipamentos para usos industriais não especificados anteriormente
+3317-1/02,2111,Manutenção e reparação de embarcações para esporte e lazer
+3319-8/00,4028,Manutenção e reparação de equipamentos e produtos não especificados anteriormente
+3321-0/00,21714,Instalação de máquinas e equipamentos industriais
+3329-5/01,33595,Serviços de montagem de móveis de qualquer material
+3329-5/99,3,Instalação de outros equipamentos não especificados anteriormente
+3600-6/02,1726,Distribuição de água por caminhões
+3702-9/00,1363,"Atividades relacionadas a esgoto, exceto a gestão de redes"
+3811-4/00,10444,Coleta de resíduos não-perigosos
+3812-2/00,282,Coleta de resíduos perigosos
+3831-9/01,4547,Recuperação de sucatas de alumínio
+3831-9/99,2915,"Recuperação de materiais metálicos, exceto alumínio"
+3832-7/00,4365,Recuperação de materiais plásticos
+3839-4/99,3868,Recuperação de materiais não especificados anteriormente
+4120-4/00,13,Construção de edifícios
+4222-7/01,1,"Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas, exceto obras de irrigação"
+4292-8/01,7,Montagem de estruturas metálicas
+4292-8/02,1,Obras de montagem industrial
+4313-4/00,2,Obras de terraplenagem
+4321-5/00,196261,Instalação e manutenção elétrica
+4322-3/01,22025,"Instalações hidráulicas, sanitárias e de gás"
+4322-3/02,51513,"Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração"
+4322-3/03,3275,Instalações de sistema de prevenção contra incêndio
+4329-1/01,5580,Instalação de painéis publicitários
+4329-1/02,361,"Instalação de equipamentos para orientação à navegação marítima, fluvial e lacustre"
+4329-1/03,1617,"Instalação, manutenção e reparação de elevadores, escadas e esteiras rolantes"
+4329-1/04,1226,"Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos"
+4329-1/05,1951,"Tratamentos térmicos, acústicos ou de vibração"
+4329-1/99,5,Outras obras de instalações em construções não especificadas anteriormente
+4330-4/01,3,Impermeabilização em obras de engenharia civil
+4330-4/02,12358,"Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material"
+4330-4/03,30348,Obras de acabamento em gesso e estuque
+4330-4/04,143196,Serviços de pintura de edifícios em geral
+4330-4/05,23052,Aplicação de revestimentos e de resinas em interiores e exteriores
+4330-4/99,23978,Outras obras de acabamento da construção
+4391-6/00,1,Obras de fundações
+4399-1/01,1,Administração de obras
+4399-1/02,2,Montagem e desmontagem de andaimes e outras estruturas temporárias
+4399-1/03,462725,Obras de alvenaria
+4399-1/05,2005,Perfuração e construção de poços de água
+4399-1/99,12833,Serviços especializados para construção não especificados anteriormente
+4511-1/02,3,"Comércio a varejo de automóveis, camionetas e utilitários usados"
+4520-0/01,123463,Serviços de manutenção e reparação mecânica de veículos automotores
+4520-0/02,59331,Serviços de lanternagem ou funilaria e pintura de veículos automotores
+4520-0/03,22388,Serviços de manutenção e reparação elétrica de veículos automotores
+4520-0/04,1823,Serviços de alinhamento e balanceamento de veículos automotores
+4520-0/05,72806,"Serviços de lavagem, lubrificação e polimento de veículos automotores"
+4520-0/06,33700,Serviços de borracharia para veículos automotores
+4520-0/07,26667,"Serviços de instalação, manutenção e reparação de acessórios para veículos automotores"
+4520-0/08,2980,Serviços de capotaria
+4530-7/01,3,Comércio por atacado de peças e acessórios novos para veículos automotores
+4530-7/03,59335,Comércio a varejo de peças e acessórios novos para veículos automotores
+4530-7/04,9602,Comércio a varejo de peças e acessórios usados para veículos automotores
+4530-7/05,3637,Comércio a varejo de pneumáticos e câmaras-de-ar
+4530-7/06,1,Representantes comerciais e agentes do comércio de peças e acessórios novos e usados para veículos automotores
+4541-2/01,2,Comércio por atacado de motocicletas e motonetas
+4541-2/03,1,Comércio a varejo de motocicletas e motonetas novas
+4541-2/06,36440,Comércio a varejo de peças e acessórios novos para motocicletas e motonetas
+4541-2/07,861,Comércio a varejo de peças e acessórios usados para motocicletas e motonetas
+4542-1/01,1,"Representantes comerciais e agentes do comércio de motocicletas e motonetas, peças e acessórios"
+4542-1/02,1,Comércio sob consignação de motocicletas e motonetas
+4543-9/00,31879,Manutenção e reparação de motocicletas e motonetas
+4616-8/00,1,"Representantes comerciais e agentes do comércio de têxteis, vestuário, calçados e artigos de viagem"
+4617-6/00,3,"Representantes comerciais e agentes do comércio de produtos alimentícios, bebidas e fumo"
+4618-4/01,2,"Representantes comerciais e agentes do comércio de medicamentos, cosméticos e produtos de perfumaria"
+4618-4/99,1,Outros representantes comerciais e agentes do comércio especializado em produtos não especificados anteriormente
+4623-1/06,1,"Comércio atacadista de sementes, flores, plantas e gramas"
+4632-0/01,1,Comércio atacadista de cereais e leguminosas beneficiados
+4632-0/03,1,"Comércio atacadista de cereais e leguminosas beneficiados, farinhas, amidos e féculas, com atividade de fracionamento e acondicionamento associada"
+4634-6/03,1,Comércio atacadista de pescados e frutos do mar
+4635-4/01,1,Comércio atacadista de água mineral
+4635-4/99,1,Comércio atacadista de bebidas não especificadas anteriormente
+4637-1/01,1,"Comércio atacadista de café torrado, moído e solúvel"
+4637-1/04,1,"Comércio atacadista de pães, bolos, biscoitos e similares"
+4637-1/06,1,Comércio atacadista de sorvetes
+4637-1/07,2,"Comércio atacadista de chocolates, confeitos, balas, bombons e semelhantes"
+4637-1/99,1,Comércio atacadista especializado em outros produtos alimentícios não especificados anteriormente
+4639-7/01,2,Comércio atacadista de produtos alimentícios em geral
+4641-9/03,1,Comércio atacadista de artigos de armarinho
+4642-7/01,4,"Comércio atacadista de artigos do vestuário e acessórios, exceto profissionais e de segurança"
+4642-7/02,1,Comércio atacadista de roupas e acessórios para uso profissional e de segurança do trabalho
+4646-0/01,1,Comércio atacadista de cosméticos e produtos de perfumaria
+4649-4/01,1,Comércio atacadista de equipamentos elétricos de uso pessoal e doméstico
+4649-4/08,1,"Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar"
+4649-4/10,1,"Comércio atacadista de jóias, relógios e bijuterias, inclusive pedras preciosas e semipreciosas lapidadas"
+4649-4/99,1,Comércio atacadista de outros equipamentos e artigos de uso pessoal e doméstico não especificados anteriormente
+4651-6/01,3,Comércio atacadista de equipamentos de informática
+4651-6/02,1,Comércio atacadista de suprimentos para informática
+4661-3/00,1,"Comércio atacadista de máquinas, aparelhos e equipamentos para uso agropecuário; partes e peças"
+4669-9/99,2,Comércio atacadista de outras máquinas e equipamentos não especificados anteriormente partes e peças
+4679-6/99,2,Comércio atacadista de materiais de construção em geral
+4686-9/02,1,Comércio atacadista de embalagens
+4687-7/01,1,Comércio atacadista de resíduos de papel e papelão
+4687-7/02,1,"Comércio atacadista de resíduos e sucatas não-metálicos, exceto de papel e papelão"
+4687-7/03,4,Comércio atacadista de resíduos e sucatas metálicos
+4689-3/02,1,Comércio atacadista de fios e fibras beneficiados
+4689-3/99,2,Comércio atacadista especializado em outros produtos intermediários não especificados anteriormente
+4691-5/00,2,"Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios"
+4693-1/00,1,"Comércio atacadista de mercadorias em geral, sem predominância de alimentos ou de insumos agropecuários"
+4711-3/01,11,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios – hipermercados"
+4711-3/02,20,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios – supermercados"
+4712-1/00,242816,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios – minimercados, mercearias e armazéns"
+4713-0/02,36841,"Lojas de variedades, exceto lojas de departamentos ou magazines"
+4713-0/04,20,"Lojas de departamentos ou magazines, exceto lojas francas (Duty free)"
+4721-1/02,46408,Padaria e confeitaria com predominância de revenda
+4721-1/03,24585,Comércio varejista de laticínios e frios
+4721-1/04,17180,"Comércio varejista de doces, balas, bombons e semelhantes"
+4722-9/01,32679,Comércio varejista de carnes – açougues
+4722-9/02,12473,Peixaria
+4723-7/00,180841,Comércio varejista de bebidas
+4724-5/00,88947,Comércio varejista de hortifrutigranjeiros
+4729-6/01,12165,Tabacaria
+4729-6/02,3,Comércio varejista de mercadorias em lojas de conveniência
+4729-6/99,97404,Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente
+4732-6/00,3143,Comércio varejista de lubrificantes
+4741-5/00,3306,Comércio varejista de tintas e materiais para pintura
+4742-3/00,11230,Comércio varejista de material elétrico
+4743-1/00,13163,Comércio varejista de vidros
+4744-0/01,17219,Comércio varejista de ferragens e ferramentas
+4744-0/02,5950,Comércio varejista de madeira e artefatos
+4744-0/03,3209,Comércio varejista de materiais hidráulicos
+4744-0/04,6177,"Comércio varejista de cal, areia, pedra britada, tijolos e telhas"
+4744-0/05,39,Comércio varejista de materiais de construção não especificados anteriormente
+4744-0/06,1,Comércio varejista de pedras para revestimento
+4744-0/99,61725,Comércio varejista de materiais de construção em geral
+4751-2/01,54038,Comércio varejista especializado de equipamentos e suprimentos de informática
+4751-2/02,2726,Recarga de cartuchos para equipamentos de informática
+4752-1/00,40440,Comércio varejista especializado de equipamentos de telefonia e comunicação
+4753-9/00,22901,Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo
+4754-7/01,23528,Comércio varejista de móveis
+4754-7/02,16411,Comércio varejista de artigos de colchoaria
+4754-7/03,2956,Comércio varejista de artigos de iluminação
+4755-5/01,6097,Comércio varejista de tecidos
+4755-5/02,77434,Comércio varejista de artigos de armarinho
+4755-5/03,58469,"Comércio varejista de artigos de cama, mesa e banho"
+4756-3/00,3372,Comércio varejista especializado de instrumentos musicais e acessórios
+4757-1/00,15434,"Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação"
+4759-8/01,9099,"Comércio varejista de artigos de tapeçaria, cortinas e persianas"
+4759-8/99,23582,Comércio varejista de outros artigos de uso doméstico não especificados anteriormente
+4761-0/01,6848,Comércio varejista de livros
+4761-0/02,5334,Comércio varejista de jornais e revistas
+4761-0/03,14871,Comércio varejista de artigos de papelaria
+4762-8/00,3858,"Comércio varejista de discos, CDs, DVDs e fitas"
+4763-6/01,18784,Comércio varejista de brinquedos e artigos recreativos
+4763-6/02,14578,Comércio varejista de artigos esportivos
+4763-6/03,16890,Comércio varejista de bicicletas e triciclos peças e acessórios
+4763-6/04,6018,"Comércio varejista de artigos de caça, pesca e camping"
+4763-6/05,1,Comércio varejista de embarcações e outros veículos recreativos peças e acessórios
+4771-7/01,2796,"Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas"
+4771-7/02,13,"Comércio varejista de produtos farmacêuticos, com manipulação de fórmulas"
+4771-7/03,698,Comércio varejista de produtos farmacêuticos homeopáticos
+4771-7/04,2711,Comércio varejista de medicamentos veterinários
+4772-5/00,159869,"Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+4773-3/00,7933,Comércio varejista de artigos médicos e ortopédicos
+4774-1/00,17593,Comércio varejista de artigos de óptica
+4781-4/00,765523,Comércio varejista de artigos do vestuário e acessórios
+4782-2/01,44809,Comércio varejista de calçados
+4782-2/02,3339,Comércio varejista de artigos de viagem
+4783-1/01,22938,Comércio varejista de artigos de joalheria
+4783-1/02,5472,Comércio varejista de artigos de relojoaria
+4784-9/00,7956,Comércio varejista de gás liqüefeito de petróleo (GLP)
+4785-7/01,1185,Comércio varejista de antigüidades
+4785-7/99,15951,Comércio varejista de outros artigos usados
+4789-0/01,49458,"Comércio varejista de suvenires, bijuterias e artesanatos"
+4789-0/02,16540,Comércio varejista de plantas e flores naturais
+4789-0/03,5065,Comércio varejista de objetos de arte
+4789-0/04,57117,Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação
+4789-0/05,32252,Comércio varejista de produtos saneantes domissanitários
+4789-0/06,229,Comércio varejista de fogos de artifício e artigos pirotécnicos
+4789-0/07,3932,Comércio varejista de equipamentos para escritório
+4789-0/08,4101,Comércio varejista de artigos fotográficos e para filmagem
+4789-0/99,80364,Comércio varejista de outros produtos não especificados anteriormente
+4921-3/01,6,"Transporte rodoviário coletivo de passageiros, com itinerário fixo, municipal"
+4923-0/01,83939,Serviço de táxi
+4923-0/02,18,Serviço de transporte de passageiros – locação de automóveis com motorista
+4924-8/00,50205,Transporte escolar
+4929-9/01,60469,"Transporte rodoviário coletivo de passageiros, sob regime de fretamento, municipal"
+4929-9/02,30043,"Transporte rodoviário coletivo de passageiros, sob regime de fretamento, intermunicipal, interestadual e internacional"
+4929-9/03,1452,"Organização de excursões em veículos rodoviários próprios, municipal"
+4929-9/04,2,"Organização de excursões em veículos rodoviários próprios, intermunicipal, interestadual e internacional"
+4929-9/99,218,Outros transportes rodoviários de passageiros não especificados anteriormente
+4930-2/01,165816,"Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal"
+4930-2/02,48727,"Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional"
+4930-2/04,19794,Transporte rodoviário de mudanças
+5011-4/01,474,Transporte marítimo de cabotagem – Carga
+5021-1/01,565,"Transporte por navegação interior de carga, municipal, exceto travessia"
+5091-2/01,660,"Transporte por navegação de travessia, municipal"
+5091-2/02,520,"Transporte por navegação de travessia, intermunicipal, interestadual e internacional"
+5099-8/01,1938,Transporte aquaviário para passeios turísticos
+5099-8/99,1729,Outros transportes aquaviários não especificados anteriormente
+5211-7/02,899,Guarda-móveis
+5212-5/00,16073,Carga e descarga
+5222-2/00,1,Terminais rodoviários e ferroviários
+5223-1/00,11457,Estacionamento de veículos
+5229-0/02,7969,Serviços de reboque de veículos
+5229-0/99,73764,Outras atividades auxiliares dos transportes terrestres não especificadas anteriormente
+5310-5/02,542,Atividades de franqueadas e permissionárias do Correio Nacional
+5320-2/01,16302,Serviços de malote não realizados pelo Correio Nacional
+5320-2/02,142307,Serviços de entrega rápida
+5510-8/01,29,Hotéis
+5590-6/01,1172,"Albergues, exceto assistenciais"
+5590-6/02,837,Campings
+5590-6/03,5165,Pensões (alojamento)
+5590-6/99,15354,Outros alojamentos não especificados anteriormente
+5611-2/01,170531,Restaurantes e similares
+5611-2/03,280605,"Lanchonetes, casas de chá, de sucos e similares"
+5611-2/04,166419,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento"
+5611-2/05,20968,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento"
+5612-1/00,194962,Serviços ambulantes de alimentação
+5620-1/01,20885,Fornecimento de alimentos preparados preponderantemente para empresas
+5620-1/02,34777,Serviços de alimentação para eventos e recepções – bufê
+5620-1/03,8468,Cantinas – serviços de alimentação privativos
+5620-1/04,281291,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar
+5811-5/00,12791,Edição de livros
+5812-3/00,354,Edição de jornais
+5812-3/01,12341,Edição de jornais diários
+5812-3/02,8963,Edição de jornais não diários
+5813-1/00,12439,Edição de revistas
+5819-1/00,46196,"Edição de cadastros, listas e outros produtos gráficos"
+5822-1/01,1,Edição integrada à impressão de jornais diários
+5829-8/00,1,"Edição integrada à impressão de cadastros, listas e outros produtos gráficos"
+5911-1/02,1,Produção de filmes para publicidade
+5911-1/99,1,"Atividades de produção cinematográfica, de vídeos e de programas de televisão não especificadas anteriormente"
+5912-0/01,1114,Serviços de dublagem
+5912-0/02,2,Serviços de mixagem sonora em produção audiovisual
+5912-0/99,32998,"Atividades de pós-produção cinematográfica, de vídeos e de programas de televisão não especificadas anteriormente"
+5913-8/00,1,"Distribuição cinematográfica, de vídeo e de programas de televisão"
+5920-1/00,3,Atividades de gravação de som e de edição de música
+6010-1/00,1,Atividades de rádio
+6021-7/00,1,Atividades de televisão aberta
+6110-8/03,2,Serviços de comunicação multimídia – SCM
+6190-6/01,1,Provedores de acesso às redes de comunicações
+6190-6/99,19451,Outras atividades de telecomunicações não especificadas anteriormente
+6201-5/01,5,Desenvolvimento de programas de computador sob encomenda
+6209-1/00,3,"Suporte técnico, manutenção e outros serviços em tecnologia da informação"
+6311-9/00,1,"Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet"
+6319-4/00,6,"Portais, provedores de conteúdo e outros serviços de informação na internet"
+6391-7/00,1,Agências de notícias
+6399-2/00,4216,Outras atividades de prestação de serviços de informação não especificadas anteriormente
+6619-3/02,3,Correspondentes de instituições financeiras
+6621-5/01,1,Peritos e avaliadores de seguros
+6622-3/00,1,"Corretores e agentes de seguros, de planos de previdência complementar e de saúde"
+6821-8/01,2,Corretagem na compra e venda e avaliação de imóveis
+6822-6/00,2,Gestão e administração da propriedade imobiliária
+6911-7/02,1,Atividades auxiliares da justiça
+6920-6/01,9218,Atividades de contabilidade
+7020-4/00,1,"Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica"
+7119-7/01,1,"Serviços de cartografia, topografia e geodésia"
+7119-7/03,1,Serviços de desenho técnico relacionados à arquitetura e engenharia
+7119-7/04,1,Serviços de perícia técnica relacionados à segurança do trabalho
+7311-4/00,1,Agências de publicidade
+7312-2/00,2,"AGENCIAMENTO DE ESPAÇOS PARA PUBLICIDADE, EXCETO EM VEÍCULOS DE COMUNICAÇÃO"
+7319-0/02,354392,Promoção de vendas
+7319-0/03,39354,Marketing direto
+7319-0/99,13414,Outras atividades de publicidade não especificadas anteriormente
+7410-2/02,18,Design de interiores
+7420-0/01,66618,"Atividades de produção de fotografias, exceto aérea e submarina"
+7420-0/02,1957,Atividades de produção de fotografias aéreas e submarinas
+7420-0/03,409,Laboratórios fotográficos
+7420-0/04,11153,Filmagem de festas e eventos
+7490-1/01,1,"Serviços de tradução, interpretação e similares"
+7490-1/02,546,Escafandria e mergulho
+7490-1/99,3,"Outras atividades profissionais, científicas e técnicas não especificadas anteriormente"
+7500-1/00,2,Atividades veterinárias
+7711-0/00,5,Locação de automóveis sem condutor
+7719-5/99,618,"Locação de outros meios de transporte não especificados anteriormente, sem condutor"
+7721-7/00,11822,Aluguel de equipamentos recreativos e esportivos
+7722-5/00,1657,"Aluguel de fitas de vídeo, DVDs e similares"
+7723-3/00,4711,"Aluguel de objetos do vestuário, jóias e acessórios"
+7729-2/01,1620,Aluguel de aparelhos de jogos eletrônicos
+7729-2/02,15434,"Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal; instrumentos musicais"
+7729-2/03,374,Aluguel de material médico
+7729-2/99,207,Aluguel de outros objetos pessoais e domésticos não especificados anteriormente
+7731-4/00,2708,Aluguel de máquinas e equipamentos agrícolas sem operador
+7732-2/01,5534,"Aluguel de máquinas e equipamentos para construção sem operador, exceto andaimes"
+7732-2/02,1244,Aluguel de andaimes
+7733-1/00,1216,Aluguel de máquinas e equipamentos para escritório
+7739-0/02,871,"Aluguel de equipamentos científicos, médicos e hospitalares, sem operador"
+7739-0/03,3454,"Aluguel de palcos, coberturas e outras estruturas de uso temporário, exceto andaimes"
+7739-0/99,4902,"Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador"
+7820-5/00,1,Locação de mão de obra temporária
+7911-2/00,35299,Agências de viagens
+7912-1/00,8111,Operadores turísticos
+7990-2/00,4686,Serviços de reservas e outros serviços de turismo não especificados anteriormente
+8011-1/01,1796,Atividades de vigilância e segurança privada
+8011-1/02,1402,Serviços de adestramento de cães de guarda
+8020-0/01,3,Atividades de monitoramento de sistemas de segurança eletrônico
+8020-0/02,3435,Outras atividades de serviços de segurança
+8111-7/00,3,"Serviços combinados para apoio a edifícios, exceto condomínios prediais"
+8121-4/00,7,Limpeza em prédios e em domicílios
+8122-2/00,3966,Imunização e controle de pragas urbanas
+8129-0/00,12165,Atividades de limpeza não especificadas anteriormente
+8130-3/00,55945,Atividades paisagísticas
+8211-3/00,16021,Serviços combinados de escritório e apoio administrativo
+8219-9/01,8669,Fotocópias
+8219-9/99,142283,Preparação de documentos e serviços especializados de apoio administrativo não especificados anteriormente
+8220-2/00,5,Atividades de teleatendimento
+8230-0/01,139060,"Serviços de organização de feiras, congressos, exposições e festas"
+8230-0/02,17103,Casas de festas e eventos
+8291-1/00,21593,Atividades de cobrança e informações cadastrais
+8292-0/00,2537,Envasamento e empacotamento sob contrato
+8299-7/03,395,"Serviços de gravação de carimbos, exceto confecção"
+8299-7/07,9949,Salas de acesso à internet
+8299-7/99,9756,Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente
+8511-2/00,2,Educação infantil – creche
+8512-1/00,3,Educação infantil – pré-escola
+8513-9/00,8,Ensino fundamental
+8532-5/00,1,Educação superior – graduação e pós-graduação
+8591-1/00,6,Ensino de esportes
+8592-9/01,5,Ensino de dança
+8592-9/02,3761,"Ensino de artes cênicas, exceto dança"
+8592-9/03,15240,Ensino de música
+8592-9/99,44159,Ensino de arte e cultura não especificado anteriormente
+8593-7/00,13650,Ensino de idiomas
+8599-6/01,1,Formação de condutores
+8599-6/03,23032,Treinamento em informática
+8599-6/04,100256,Treinamento em desenvolvimento profissional e gerencial
+8599-6/05,14837,Cursos preparatórios para concursos
+8599-6/99,141842,Outras atividades de ensino não especificadas anteriormente
+8630-5/04,1,Atividade odontológica
+8690-9/01,1,Atividades de práticas integrativas e complementares em saúde humana
+8690-9/04,1,Atividades de podologia
+8712-3/00,88475,Atividades de fornecimento de infra-estrutura de apoio e assistência a paciente no domicílio
+9001-9/01,8956,Produção teatral
+9001-9/02,43766,Produção musical
+9001-9/03,1,Produção de espetáculos de dança
+9001-9/04,1,"Produção de espetáculos circenses, de marionetes e similares"
+9001-9/06,19533,Atividades de sonorização e de iluminação
+9001-9/99,4,"Artes cênicas, espetáculos e atividades complementares não especificados anteriormente"
+9002-7/01,5,"Atividades de artistas plásticos, jornalistas independentes e escritores"
+9002-7/02,1571,Restauração de obras de arte
+9102-3/02,992,Restauração e conservação de lugares e prédios históricos
+9311-5/00,1,Gestão de instalações de esportes
+9312-3/00,2,"Clubes sociais, esportivos e similares"
+9313-1/00,15245,Atividades de condicionamento físico
+9319-1/01,1,Produção e promoção de eventos esportivos
+9329-8/01,2,"Discotecas, danceterias, salões de dança e similares"
+9329-8/03,590,"Exploração de jogos de sinuca, bilhar e similares"
+9329-8/04,778,Exploração de jogos eletrônicos recreativos
+9329-8/99,10881,Outras atividades de recreação e lazer não especificadas anteriormente
+9511-8/00,108202,Reparação e manutenção de computadores e de equipamentos periféricos
+9512-6/00,40178,Reparação e manutenção de equipamentos de comunicação
+9521-5/00,27379,Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico
+9529-1/01,4661,"Reparação de calçados, bolsas e artigos de viagem"
+9529-1/02,16054,Chaveiros
+9529-1/03,2579,Reparação de relógios
+9529-1/04,6991,"Reparação de bicicletas, triciclos e outros veículos não-motorizados"
+9529-1/05,17822,Reparação de artigos do mobiliário
+9529-1/06,3733,Reparação de jóias
+9529-1/99,9185,Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente
+9601-7/01,11385,Lavanderias
+9601-7/02,179,Tinturarias
+9601-7/03,1464,Toalheiros
+9602-5/01,798564,"Cabeleireiros, manicure e pedicure"
+9602-5/02,217909,Atividades de Estética e outros serviços de cuidados com a beleza
+9603-3/03,201,Serviços de sepultamento
+9603-3/04,1771,Serviços de funerárias
+9603-3/99,40,Atividades funerárias e serviços relacionados não especificados anteriormente
+9609-2/02,1419,Agências matrimoniais
+9609-2/06,21083,Serviços de tatuagem e colocação de piercing
+9609-2/07,4467,Alojamento de animais domésticos
+9609-2/08,34080,Higiene e embelezamento de animais domésticos
+9609-2/99,20664,Outras atividades de serviços pessoais não especificadas anteriormente
+9700-5/00,156783,Serviços domésticos

@@ -7,11 +7,11 @@ A dashboard with the obtained analysis can be viewed at: https://sites.google.co
 The code explore datasets and web scrap dynamic content to collect and present informations to the micro and medium enterpreneuers in Brazil. 
 
 ## Authors
-* **André Carrara** [linkedin](https://www.linkedin.com/in/andr%C3%A9-carrara-273485187/)
-* **André Mafei** [linkedin](https://www.linkedin.com/in/andre-mafei/)
-* **Gabriel Miranda** [linkedin](https://www.linkedin.com/in/gabrielbmiranda/)
-* **Luis Garavaso** [linkedin](https://www.linkedin.com/in/luis-otavio-garavaso-391593141/)
-* **Thaynan Wesley** [linkedin](https://www.linkedin.com/in/thaynan-wesley/)
+* **André Carrara**     [Linkedin](https://www.linkedin.com/in/andr%C3%A9-carrara-273485187/)
+* **André Mafei**       [Linkedin](https://www.linkedin.com/in/andre-mafei/)
+* **Gabriel Miranda**   [Linkedin](https://www.linkedin.com/in/gabrielbmiranda/)
+* **Luis Garavaso**     [Linkedin](https://www.linkedin.com/in/luis-otavio-garavaso-391593141/)
+* **Thaynan Wesley**    [Linkedin](https://www.linkedin.com/in/thaynan-wesley/)
 
 ## Prerequisites
 
