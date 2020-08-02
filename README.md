@@ -4,7 +4,7 @@ This repository was created as part of a data analysis project developed for the
 A dashboard with the obtained analysis can be viewed at: https://sites.google.com/view/meixplica
 
 
-The code explore datasets and web scrap dynamic content to collect and present informations to the micro and medium enterpreneuers in Brazil. 
+The code explore datasets and web do scraping in dynamic contents to collect and present informations to the micro and medium enterpreneurs in Brazil. 
 
 ## Authors
 * **André Carrara**     [Linkedin](https://www.linkedin.com/in/andr%C3%A9-carrara-273485187/)
@@ -45,8 +45,9 @@ https://colab.research.google.com/drive/1d6Z-VCn22HCTVNEAedLxLHzZt215qbrN?usp=sh
 
 ## References and sources
 
-https://www.contabilizei.com.br/contabilidade-online/cnae/
-https://www.portalbrasil.net/ipca/
-https://tendencias.mercadolivre.com.br/
-http://www.portaldoempreendedor.gov.br/estatisticas
-https://pypi.org/project/pytrends/
+* [RED: a Rich Epinions Dataset for Recommender Systems](https://hal.archives-ouvertes.fr/hal-01010246/)
+* [Tabela CNAE para CNPJs](https://www.contabilizei.com.br/contabilidade-online/cnae/)
+* [ÍNDICE NACIONAL DE PREÇOS AO CONSUMIDOR AMPLO – IPCA](https://www.portalbrasil.net/ipca/)
+* [Tendências - Mercado Livre](https://tendencias.mercadolivre.com.br/)
+* [Portal do Empreendedor - Estatísticas](http://www.portaldoempreendedor.gov.br/estatisticas)
+* [Google Trends with python](https://trends.google.com/trends/explore?hl=en-US)
