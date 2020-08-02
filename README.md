@@ -1,7 +1,9 @@
-# MEIxplica (DataChallenge_Santander)
+# MEIxplica (Santander Data Challenge)
 
 This repository was created as part of a data analysis project developed for the hackathon "Data Challenge Santander" promoted by Shawee. 
-A dashboard with the obtained analysis can be viewed at: https://sites.google.com/view/meixplica
+A dashboard with the obtained analysis can be viewed at: 
+
+## [MEIxplica](https://sites.google.com/view/meixplica)
 
 
 The code explore datasets and web do scraping in dynamic contents to collect and present informations to the micro and medium enterpreneurs in Brazil. 
@@ -41,6 +43,7 @@ python3 -m notebook notebook.ipynb
 or open it in your IDE.
 
 You can also access the notebook in the google colab by the link: 
+
 https://colab.research.google.com/drive/1d6Z-VCn22HCTVNEAedLxLHzZt215qbrN?usp=sharing
 
 ## References and sources
