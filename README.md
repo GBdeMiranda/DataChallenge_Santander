@@ -1,11 +1,17 @@
 # MEIxplica (DataChallenge_Santander)
+
 This repository was created as part of a data analysis project developed for the hackathon "Data Challenge Santander" promoted by Shawee. 
 A dashboard with the obtained analysis can be viewed at: https://sites.google.com/view/meixplica
 
-## Authors
-** André Carrara, André Mafei, Gabriel Miranda, Luis Garavaso, Thaynan Wesley**
 
 The code explore datasets and web scrap dynamic content to collect and present informations to the micro and medium enterpreneuers in Brazil. 
+
+## Authors
+* **André Carrara** [linkedin](https://www.linkedin.com/in/andr%C3%A9-carrara-273485187/)
+* **André Mafei** [linkedin](https://www.linkedin.com/in/andre-mafei/)
+* **Gabriel Miranda** [linkedin](https://www.linkedin.com/in/gabrielbmiranda/)
+* **Luis Garavaso** [linkedin](https://www.linkedin.com/in/luis-otavio-garavaso-391593141/)
+* **Thaynan Wesley** [linkedin](https://www.linkedin.com/in/thaynan-wesley/)
 
 ## Prerequisites
 
