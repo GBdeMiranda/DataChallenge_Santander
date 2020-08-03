@@ -1,10 +1,9 @@
 # MEIxplica (Santander Data Challenge)
 
 This repository was created as part of a data analysis project developed for the hackathon "Data Challenge Santander" promoted by Shawee. 
-A dashboard with the obtained analysis can be viewed at: 
+A [dashboard](https://datastudio.google.com/reporting/b75e3fc7-6ad6-4396-bfc2-8b4cc68ceea9) with the presentation of the platform in a more playful along with the analysis built can be seen at:
 
 > ## [MEIxplica](https://sites.google.com/view/meixplica)
-
 
 The code explore datasets and web do scraping in dynamic contents to collect and present informations to the micro and medium enterpreneurs in Brazil. 
 
@@ -54,5 +53,6 @@ https://colab.research.google.com/drive/1d6Z-VCn22HCTVNEAedLxLHzZt215qbrN?usp=sh
 * [Tendências - Mercado Livre](https://tendencias.mercadolivre.com.br/)
 * [Portal do Empreendedor - Estatísticas](http://www.portaldoempreendedor.gov.br/estatisticas)
 * [Google Trends with python](https://trends.google.com/trends/explore?hl=en-US)
+* [Qual é o maior e-commerce do Brasil?](https://www.moneytimes.com.br/qual-e-o-maior-e-commerce-do-brasil-mercado-livre-b2w-ou-magalu-btg-te-conta/)
 
 _Project developed between August 1st and 2nd_
