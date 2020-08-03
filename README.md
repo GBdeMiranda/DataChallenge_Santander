@@ -3,7 +3,7 @@
 This repository was created as part of a data analysis project developed for the hackathon "Data Challenge Santander" promoted by Shawee. 
 A dashboard with the obtained analysis can be viewed at: 
 
-## [MEIxplica](https://sites.google.com/view/meixplica)
+> ## [MEIxplica](https://sites.google.com/view/meixplica)
 
 
 The code explore datasets and web do scraping in dynamic contents to collect and present informations to the micro and medium enterpreneurs in Brazil. 
@@ -42,7 +42,7 @@ python3 -m notebook notebook.ipynb
 ```
 or open it in your IDE.
 
-You can also access the notebook in the google colab by the link: 
+You can also access the notebook on google colab through the link:
 
 https://colab.research.google.com/drive/1d6Z-VCn22HCTVNEAedLxLHzZt215qbrN?usp=sharing
 
@@ -54,3 +54,5 @@ https://colab.research.google.com/drive/1d6Z-VCn22HCTVNEAedLxLHzZt215qbrN?usp=sh
 * [Tendências - Mercado Livre](https://tendencias.mercadolivre.com.br/)
 * [Portal do Empreendedor - Estatísticas](http://www.portaldoempreendedor.gov.br/estatisticas)
 * [Google Trends with python](https://trends.google.com/trends/explore?hl=en-US)
+
+_Project developed between August 1st and 2nd_
